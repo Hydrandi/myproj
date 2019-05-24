@@ -3,7 +3,7 @@
 
 setwd()
 
-read.csv("data/x.csv", strip.white = T, stringsAsFactors = F)
+# read.csv("data/x.csv", strip.white = T, stringsAsFactors = F)
 
 source()
 source()
